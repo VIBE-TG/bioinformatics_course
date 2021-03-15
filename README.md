@@ -1,2 +1,0 @@
-# bioinformatics_course
- 
